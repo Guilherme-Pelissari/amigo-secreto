@@ -25,7 +25,8 @@ Como se trata de uma aplicação front-end simples, basta abrir o arquivo `index
 start index.html
 # ou apenas dê dois cliques no arquivo
 Se você estiver usando frameworks ou build tools, adicione instruções como npm install e npm start.
-```## 🧩 Funcionalidades
+```
+## 🧩 Funcionalidades
 
 - Inserção de participantes  
 - Sorteio automático e aleatório  
