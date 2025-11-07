@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/Soft-Code/60f1978c-50eb-4c9a-a442-78e21fb155a1/24086b5f-85a0-429b-82f4-5910b97aed6f/_apis/work/boardbadge/78f75563-ecec-4075-8132-a46d07621034)](https://dev.azure.com/Soft-Code/60f1978c-50eb-4c9a-a442-78e21fb155a1/_boards/board/t/24086b5f-85a0-429b-82f4-5910b97aed6f/Microsoft.RequirementCategory)
 # 🎅 Amigo Secreto
 
 Amigo Secreto é um projeto simples e prático para organizar sorteios de amigo oculto entre amigos, familiares ou colegas de trabalho. Tudo acontece de forma segura e sem necessidade de servidor.
